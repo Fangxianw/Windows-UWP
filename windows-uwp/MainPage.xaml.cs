@@ -25,7 +25,7 @@ namespace windows_uwp
         public MainPage()
         {
             this.InitializeComponent();
-            // This is a test Program.2015
+            // This is a test Program.2016
         }
     }
 }
